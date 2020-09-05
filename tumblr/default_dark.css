@@ -1,0 +1,119 @@
+.nav-wrapper .nav-item .label
+{
+    text-transform:lowercase !important;
+}
+
+.post-footer .panel {
+    margin-top:10px;
+}
+
+.notes-wrapper.active{
+    border:none !important;
+}
+
+.has-tags
+{
+    display:none !important;
+}
+
+.post-wrapper{
+    border-radius:0 !important;
+    -webkit-border-radius:0 !important;
+}
+
+.post-header {
+    font-weight: 500 !mportant;
+    border:none !important;
+}
+
+.panel, .post, .notes, .pop-menu, .post-header {
+background-color:#000 !important;
+}
+
+
+article {
+    border:0.1px solid #111 !important;
+    /* padding-top:10px !important; */
+}
+
+.caption
+{
+    display:none !important;
+}
+
+.tmblr-iframe-compact .tmblr-iframe--unified-controls {display: none!important;}
+
+tumblr_controls, .tmblr-iframe{display:none!important;}
+
+.pop-menu ul li a {
+    color:#888;
+}
+
+.pop-menu ul:hover li:hover a:hover
+{
+    color:#000;
+    background-color:#9ad7b9;
+    
+    /* accent color on bg, harus ditulis manual karena tumblr ngga bisa ngasih variabel di custom css hadeh */
+}
+
+.nav-wrapper.nav-fixed
+{
+    top:0 !important;
+}
+
+.date-notes .post-notes {
+    font-weight:normal !important;
+}
+
+.replies p {
+    color:#999;
+}
+
+
+.note-item .text::after
+{
+    background-color: #9ad7b9 !important;
+}
+
+.note-item .text
+{
+    background-color: #9ad7b9 !important;
+    border:none !important;
+    opacity:0.9;
+}
+
+.note-item .text:hover
+{
+    opacity:1;
+}
+
+.note-item .text .answerer, .note-item .text .asker {
+    color:#000 !important;
+}
+
+.photo .photo-wrapper {
+background-color:#ddd !important;
+border:none !important;
+}
+
+
+body {
+overflow-x: hidden;
+}
+
+.post-header
+{
+    display:none !important;
+}
+
+/**
+* {
+    border-radius:0px !important;
+}
+**/
+
+
+
+
+
