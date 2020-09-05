@@ -1,0 +1,73 @@
+.nav-wrapper .nav-item .label
+{
+    text-transform:lowercase !important;
+}
+
+.post-footer .panel {
+    margin-top:10px;
+}
+
+.notes-wrapper.active{
+    border:none !important;
+}
+
+.has-tags
+{
+    display:none !important;
+}
+
+.post-wrapper{
+    border-radius:0 !important;
+    -webkit-border-radius:0 !important;
+}
+
+.panel, .post, .notes, .pop-menu {
+}
+
+article {
+
+    padding-top:10px !important;
+}
+
+.caption
+{
+    display:none !important;
+}
+
+.tmblr-iframe-compact .tmblr-iframe--unified-controls {display: none!important;}
+
+tumblr_controls, .tmblr-iframe{display:none!important;}
+
+.pop-menu ul li a {
+}
+
+.pop-menu ul:hover li:hover a:hover
+{
+    
+    /* accent color on bg, harus ditulis manual karena tumblr ngga bisa ngasih variabel di custom css hadeh */
+}
+
+.nav-wrapper.nav-fixed
+{
+    top:0 !important;
+}
+
+.date-notes .post-notes {
+    
+}
+
+body {
+overflow-x: hidden;
+}
+
+
+/**
+* {
+    border-radius:0px !important;
+}
+**/
+
+
+
+
+
